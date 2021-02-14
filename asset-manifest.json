@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Maikpwwq/prueba-talento-won/static/css/main.a14fbdaf.chunk.css",
-    "main.js": "/Maikpwwq/prueba-talento-won/static/js/main.c701fc55.chunk.js",
-    "main.js.map": "/Maikpwwq/prueba-talento-won/static/js/main.c701fc55.chunk.js.map",
-    "runtime-main.js": "/Maikpwwq/prueba-talento-won/static/js/runtime-main.2c2dafca.js",
-    "runtime-main.js.map": "/Maikpwwq/prueba-talento-won/static/js/runtime-main.2c2dafca.js.map",
-    "static/js/2.885cd018.chunk.js": "/Maikpwwq/prueba-talento-won/static/js/2.885cd018.chunk.js",
-    "static/js/2.885cd018.chunk.js.map": "/Maikpwwq/prueba-talento-won/static/js/2.885cd018.chunk.js.map",
-    "static/js/3.fd1ab575.chunk.js": "/Maikpwwq/prueba-talento-won/static/js/3.fd1ab575.chunk.js",
-    "static/js/3.fd1ab575.chunk.js.map": "/Maikpwwq/prueba-talento-won/static/js/3.fd1ab575.chunk.js.map",
-    "index.html": "/Maikpwwq/prueba-talento-won/index.html",
-    "static/css/main.a14fbdaf.chunk.css.map": "/Maikpwwq/prueba-talento-won/static/css/main.a14fbdaf.chunk.css.map",
-    "static/js/2.885cd018.chunk.js.LICENSE.txt": "/Maikpwwq/prueba-talento-won/static/js/2.885cd018.chunk.js.LICENSE.txt",
-    "static/media/menu.css": "/Maikpwwq/prueba-talento-won/static/media/9Trazado 19.03dc27c0.svg",
-    "static/media/catatogo.css": "/Maikpwwq/prueba-talento-won/static/media/LupaGrupo 636.522762a6.svg",
-    "static/media/login.css": "/Maikpwwq/prueba-talento-won/static/media/Foto fondo.23916d1b.png"
+    "main.css": "/prueba-talento-won/static/css/main.48ceb7a2.chunk.css",
+    "main.js": "/prueba-talento-won/static/js/main.ba77431f.chunk.js",
+    "main.js.map": "/prueba-talento-won/static/js/main.ba77431f.chunk.js.map",
+    "runtime-main.js": "/prueba-talento-won/static/js/runtime-main.7bf4937d.js",
+    "runtime-main.js.map": "/prueba-talento-won/static/js/runtime-main.7bf4937d.js.map",
+    "static/js/2.885cd018.chunk.js": "/prueba-talento-won/static/js/2.885cd018.chunk.js",
+    "static/js/2.885cd018.chunk.js.map": "/prueba-talento-won/static/js/2.885cd018.chunk.js.map",
+    "static/js/3.fd1ab575.chunk.js": "/prueba-talento-won/static/js/3.fd1ab575.chunk.js",
+    "static/js/3.fd1ab575.chunk.js.map": "/prueba-talento-won/static/js/3.fd1ab575.chunk.js.map",
+    "index.html": "/prueba-talento-won/index.html",
+    "static/css/main.48ceb7a2.chunk.css.map": "/prueba-talento-won/static/css/main.48ceb7a2.chunk.css.map",
+    "static/js/2.885cd018.chunk.js.LICENSE.txt": "/prueba-talento-won/static/js/2.885cd018.chunk.js.LICENSE.txt",
+    "static/media/menu.css": "/prueba-talento-won/static/media/9Trazado 19.03dc27c0.svg",
+    "static/media/catatogo.css": "/prueba-talento-won/static/media/LupaGrupo 636.522762a6.svg",
+    "static/media/login.css": "/prueba-talento-won/static/media/Foto fondo.23916d1b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c2dafca.js",
+    "static/js/runtime-main.7bf4937d.js",
     "static/js/2.885cd018.chunk.js",
-    "static/css/main.a14fbdaf.chunk.css",
-    "static/js/main.c701fc55.chunk.js"
+    "static/css/main.48ceb7a2.chunk.css",
+    "static/js/main.ba77431f.chunk.js"
   ]
 }
