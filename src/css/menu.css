@@ -1,0 +1,369 @@
+.menu-container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;  
+    align-items:center ;
+    justify-content: space-evenly;
+    align-content: space-between;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 270px;
+    height: 1080px;
+    background: transparent linear-gradient(180deg, var(--naranja) 0%, #DF2330 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(180deg, #FE4518 0%, #DF2330 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.menu-column{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;  
+    align-items:center ;
+    justify-content: space-evenly;
+    align-content: space-between;
+}
+
+.menu-logo{
+    width: 100%;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-evenly;
+    align-content: space-between;
+}
+
+.menu-logo_imagen{
+    background: transparent url(../assets/won_logo_inicio.png) no-repeat padding-box;
+    background-size: 100% auto;
+    position: absolute;
+    top: 36px;
+    left: 81px;
+    width: 101px;
+    height: 43px;
+    opacity: 1;
+}
+
+.menu-ocultar{
+    position: absolute;
+    top: 34px;
+    left: 231px;
+    width: 16px;
+    height: 16px;
+    background: transparent url('../assets/1Grupo\ 663.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.menu-listado{
+    display: flex;
+    flex-direction: column;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+    top: 116px;
+    left: 45px;
+    width: 173px;
+    height: 733px;
+    opacity: 1;
+}
+
+.menu-listado_texto{
+    left: 97px;
+    width: 60px;
+    height: 27px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-400) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-27) var(--unnamed-font-family-segoe-ui);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal 400 20px/27px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.menu-listado_oficina{
+    position: absolute;
+    top: 116px;
+    left: 45px;
+    width: 112px;
+    height: 30px;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.menu-listado_catalogo{
+    position: absolute;
+    top: 181px;
+    left: 45px;
+    width: 130px;
+    height: 27px;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.menu-listado_bonos{
+    position: absolute;
+    top: 243px;
+    left: 45px;
+    width: 105px;
+    height: 30px;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.menu-listado_red{
+    position: absolute;
+    top: 308px;
+    left: 45px;
+    width: 85px;
+    height: 29px;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.menu-listado_invitar{
+    position: absolute;
+    top: 372px;
+    left: 45px;
+    width: 105px;
+    height: 27px;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.menu-listado_wonedero{
+    position: absolute;
+    top: 434px;
+    left: 49px;
+    width: 138px;
+    height: 30px;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.menu-listado_notificaciones{
+    position: absolute;
+    top: 499px;
+    left: 45px;
+    width: 173px;
+    height: 30px;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.menu-listado_recursos{
+    position: absolute;
+    top: 564px;
+    left: 45px;
+    width: 128px;
+    height: 27px;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.menu-listado_legal{
+    position: absolute;
+    top: 626px;
+    left: 45px;
+    width: 98px;
+    height: 29px;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.menu-listado_cuentanos{
+    position: absolute;
+    top: 690px;
+    left: 45px;
+    width: 144px;
+    height: 29px;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.menu-listado_historial{
+    position: absolute;
+    top: 753px;
+    left: 43px;
+    width: 124px;
+    height: 30px;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.menu-listado_cerrar_sesion{
+    position: absolute;
+    top: 819px;
+    left: 45px;
+    width: 164px;
+    height: 30px;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.menu-group{
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: flex-end;
+    align-content: space-between;
+    text-decoration: none;
+    width: 100%;
+}
+
+.logo-oficina{
+    top: 116px;
+    left: 45px;
+    width: 30px;
+    height: 30px;
+    background: transparent url('../assets/2Trazado\ 5.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.logo-catalogo{
+    top: 183px;
+    left: 45px;
+    width: 30px;
+    height: 23px;
+    background: transparent url('../assets/3Grupo\ 18.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.logo-bonos{
+    top: 243px;
+    left: 45px;
+    width: 30px;
+    height: 30px;    
+    background: transparent url('../assets/4Grupo\ 22.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.logo-red{
+    top: 308px;
+    left: 45px;
+    width: 30px;
+    height: 29px;
+    background: transparent url('../assets/5Grupo\ 23.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.logo-invitar{
+    top: 374px;
+    left: 45px;
+    width: 30px;
+    height: 22px;
+    background: transparent url('../assets/6Grupo\ 24.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.logo-wonedero{
+    top: 434px;
+    left: 49px;
+    width: 23px;
+    height: 30px;
+    background: transparent url('../assets/7Grupo\ 25.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;    
+}
+
+.logo-notificaciones{
+    top: 499px;
+    left: 45px;
+    width: 30px;
+    height: 30px;
+    background: transparent url('../assets/8Trazado\ 22.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.logo-recursos{
+    top: 569px;
+    left: 45px;
+    width: 30px;
+    height: 16px;
+    background: transparent url('../assets/9Trazado\ 19.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.logo-legal{
+    top: 626px;
+    left: 45px;
+    width: 30px;
+    height: 29px;
+    background: transparent url('../assets/10Trazado\ 21.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.logo-cuentanos{
+    top: 690px;
+    left: 45px;
+    width: 30px;
+    height: 29px;
+    background: transparent url('../assets/11Trazado\ 20.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.logo-historial{
+    top: 753px;
+    left: 43px;
+    width: 35px;
+    height: 30px;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.logo-cerrar_sesion{
+    top: 819px;
+    left: 45px;
+    width: 30px;
+    height: 30px;
+    background: transparent url('../assets/13Grupo\ 26.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}

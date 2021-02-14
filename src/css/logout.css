@@ -1,0 +1,71 @@
+.logout-container{
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    background: #EEEEEE 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-evenly;
+    align-content: space-between;
+}
+
+.logout-grupo{
+    top: 391px;
+    left: 948px;
+    width: 280px;
+    height: 298px;
+    opacity: 1;
+}
+
+.logout-grupo_emogi{
+    background: var(--naranja) 0% 0% no-repeat padding-box;
+    border: 2px solid var(--naranja);
+    background: #FE4518 0% 0% no-repeat padding-box;
+    border: 2px solid #FE4518;
+    opacity: 1;
+    top: 391px;
+    left: 994px;
+    width: 181px;
+    height: 181px;
+}
+
+.logout-grupo_titulo{
+    top: 604px;
+    left: 979px;
+    width: 218px;
+    height: 46px;
+}
+
+.logout-grupo_titulo_texto{
+    font: var(--unnamed-font-style-normal) normal normal 34px/46px var(--unnamed-font-family-segoe-ui);
+    text-align: center;
+    font: normal normal normal 34px/46px Segoe UI;
+    letter-spacing: 0.01px;
+    color: #828282;
+    text-shadow: 6px 9px 15px #0000000F;
+    opacity: 1;
+}
+
+.logout-grupo_mensaje{
+    top: 659px;
+    left: 948px;
+    width: 280px;
+    height: 30px;
+}
+
+.logout-grupo_mensaje_texto{
+    font: var(--unnamed-font-style-normal) normal normal 22px/30px var(--unnamed-font-family-segoe-ui);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--naranja);
+    text-align: center;
+    font: normal normal normal 22px/30px Segoe UI;
+    letter-spacing: 0px;
+    color: #FE4518;
+    text-shadow: 6px 9px 15px #0000000F;
+    opacity: 1;
+}

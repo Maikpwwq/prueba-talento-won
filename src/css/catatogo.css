@@ -1,0 +1,188 @@
+.catalogo-container{
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: ;
+    align-content: ;
+}
+
+.catalogo-group{
+    display: flex;
+    flex-direction: column;  
+    align-items:center ;
+    justify-content: ;
+    align-content: ;
+}
+
+.catalogo-fixed-menu{
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-around;
+    align-content:center;
+    width: 100%;
+}
+
+.catalogo-fixed-menu_list{
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content:center;
+    position: absolute;
+    top: 50px;
+    left: 455px;
+    width: 738px;
+    height: 30px;
+    opacity: 1;
+}
+
+.catalogo-fixed-menu_list ul{
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-between;
+    align-content: ;
+    width: 100%;
+}
+
+.catalogo-fixed-menu_list li{
+    list-style-type: none;
+}
+
+.catalogo-fixed-menu_saldo{
+    position: absolute;
+    top: 37px;
+    left: 1549px;
+    width: 150px;
+    height: 45px;
+    background: var(--naranja) 0% 0% no-repeat padding-box;
+    background: #FE4518 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 23px;
+    opacity: 1;
+}
+
+.catalogo-fixed-menu_busqueda{
+    position: absolute;
+    top: 43px;
+    left: 1843px;
+    width: 22px;
+    height: 22px;
+    background: transparent url('../assets/LupaGrupo\ 636.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.catalogo-shadow{
+    position: absolute;
+    top: 108px;
+    left: 270px;
+    width: 1650px;
+    height: 46px;
+    transform: matrix(-1, 0, 0, -1, 0, 0);
+    background: transparent linear-gradient(180deg, #F5F5F5 0%, #696969 100%) 0% 0% no-repeat padding-box;
+    opacity: 0.11;
+}
+
+.catalogo-productos{
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-evenly;
+    align-content: space-around;
+    position: absolute;
+    top: 183px;
+    left: 361px;
+    width: 1450px;
+    height: 630px;
+    opacity: 1;
+}
+
+.coleccion-productos{
+    display: flex;
+    flex-direction: row;  
+    align-items:center ;
+    justify-content: space-evenly;
+    align-content: space-around;
+    height: 100%;
+    width: 100%;
+}
+
+.coleccion-card{
+    top: 183px;
+    left: 361px;
+    width: 242px;
+    height: 282px;
+    opacity: 1;
+}
+
+.coleccion-card_imagen{
+    top: 183px;
+    left: 382px;
+    width: 200px;
+    height: 160px;
+    background: transparent url('../assets/Claro.png') 0% 0% no-repeat padding-box;
+    box-shadow: 6px 9px 15px #0000000F;
+    opacity: 1;
+}
+
+.coleccion-card_descripcion{
+    top: 343px;
+    left: 420px;
+    width: 124px;
+    height: 27px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-600) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-27) var(--unnamed-font-family-segoe-ui);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: center;
+    font: normal normal 600 20px/27px Segoe UI;
+    letter-spacing: 0px;
+    color: #828282;
+    text-shadow: 6px 9px 15px #0000000F;
+    opacity: 1;
+}
+
+.coleccion-card_precio{
+    top: 376px;
+    left: 445px;
+    width: 74px;
+    height: 27px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-600) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-27) var(--unnamed-font-family-segoe-ui);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: center;
+    font: normal normal 600 20px/27px Segoe UI;
+    letter-spacing: 0px;
+    color: #828282;
+    text-shadow: 6px 9px 15px #0000000F;
+    opacity: 1;
+}
+
+.coleccion-card_puntos{
+    top: 417px;
+    left: 361px;
+    width: 242px;
+    height: 48px;
+    background: var(--naranja) 0% 0% no-repeat padding-box;
+    background: #FE4518 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.coleccion-card_puntos_producto{
+    top: 427px;
+    left: 403px;
+    width: 158px;
+    height: 27px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-400) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-27) var(--unnamed-font-family-segoe-ui);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: center;
+    font: normal normal 400 20px/27px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-shadow: 6px 9px 15px #0000000F;
+    opacity: 1;
+}
